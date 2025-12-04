@@ -24,7 +24,7 @@ A desktop application that helps you learn French vocabulary through interactive
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/momed-ali01/flash_cards.git
+git clone https://github.com/<username>/flash_cards.git
 cd flash_cards
 ```
 
